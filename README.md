@@ -19,7 +19,9 @@ This project investigates what are the main predictors of malignant breast cance
 - Most of the data distributions are skewed to the right and have outliers.
 - Data standardization can handle outliers but do not produced normalized data with the exact same scale.
 - Area and concave points are highly correlated to the diagnosis of malignant breast cancer.
-- Insert images of distribution, boxplot and correlation heatmap.
+
+![Distribution & Box Plot](https://github.com/josefroslan/breastcancer/blob/main/distribution%20boxplot.png)
+![Correlation Heatmap](https://github.com/josefroslan/breastcancer/blob/main/correlation%20heatmap.png)
 
 ## Machine Learning
 - Logistic Regression, Decision Trees, K-Nearest Neighbors (KNN), Support Vector Machine (SVM) and Ensembling Technique were used to find the mode with highest accuracy.
