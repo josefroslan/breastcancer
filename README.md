@@ -25,8 +25,15 @@ This project investigates what are the main predictors of malignant breast cance
 <img src="https://github.com/josefroslan/breastcancer/blob/main/correlation%20heatmap.png" alt="correlation heatmap" width="75%"/>
 
 ## Machine Learning
-- Logistic Regression, Decision Trees, K-Nearest Neighbors (KNN), Support Vector Machine (SVM) and Ensembling Technique were used to find the model with highest accuracy.
-
+List of models tested for accuracy:
+- Logistic Regression
+- Decision Trees
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Bagging - Ensembling
+- Boosting - Ensembling
+- Stacking - Ensembling
+  
 ## Conclusion
 - Stacking Ensembling Method has the highest accuracy.
 - Hyperparameter tuning is recommended to find a better accuracy.
