@@ -36,6 +36,7 @@ List of models tested for accuracy:
   
 ## Conclusion
 - Stacking Ensembling Method has the highest accuracy.
+<img src="https://github.com/josefroslan/breastcancer/blob/main/model%20result.png" alt="model accuracy" width="25%"/>
 - Hyperparameter tuning is recommended to find a better accuracy.
 
 ## Contact Information
