@@ -1,6 +1,7 @@
+<img src="https://github.com/josefroslan/breastcancer/blob/main/breast-cancer-cells.jpg" alt="breast cancer" width="50%">
+
 # Breast Cancer Diagnosis Prediction using Machine Learning
 
-![Breast Cancer Cells](https://cdn.example.com/breast_cancer_cells.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -41,9 +42,14 @@ The data cleaning and preparation steps include:
 - Converting non-numerical values to numerical values.
 - Standardizing the data to handle outliers and ensure consistent scales.
 
+<img src="https://github.com/josefroslan/breastcancer/blob/main/Feature%20Transformation.png" alt="feature transformation" width="75%">
+
 ## Exploratory Data Analysis
 
 Exploratory Data Analysis (EDA) involves visualizing the data distribution and investigating outliers. The project uses histograms and box plots to understand the shape of the data distribution.
+
+<img src="https://github.com/josefroslan/breastcancer/blob/main/distribution%20boxplot.png" alt="Boxplot" width="75%">
+<img src="https://github.com/josefroslan/breastcancer/blob/main/correlation%20heatmap.png" alt="Heatmap" width="75%">
 
 ## Machine Learning Models
 
@@ -84,6 +90,8 @@ Stacking combines predictions from multiple base models using a meta-model (e.g.
 ## Conclusion
 
 The project aims to identify key predictors of malignant breast cancer and determine the most accurate machine learning model for diagnosis prediction. The results and findings of each model are discussed in detail.
+
+<img src="https://github.com/josefroslan/breastcancer/blob/main/model%20result.png" alt="ML result" width="25%">
 
 ## Contributors
 
